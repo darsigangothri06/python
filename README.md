@@ -3,7 +3,7 @@
 💻 Environment : **[Jupyter Notebbook](https://jupyter.org/)** <br>
 📖 Book : **Python for Everybody by _Charles R. Severance_**
 ### 🚀 _Contents :_ 
-* [Variables, expressions and statements](https://github.com/darsigangothri06/python/blob/main/Variables%2C%20expressions%20and%20statements.ipynb "Baiscs")
+* [Variables, expressions and statements](https://github.com/darsigangothri06/python/blob/main/Variables%2C%20expressions%20and%20statements.ipynb "Basics")
 * [Conditional Execution](https://github.com/darsigangothri06/python/blob/main/Conditional%20Execution.ipynb "Operators, Conditinal statements")
 * [Functions](https://github.com/darsigangothri06/python/blob/main/Functions.ipynb) 
 * [Iteration](https://github.com/darsigangothri06/python/blob/main/Iteration.ipynb "While loop, for loop")
