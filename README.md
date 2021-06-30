@@ -15,7 +15,7 @@
 <!-- --- -->
 
 <details>
-  <summary>🚀 <b><i>Basic Games : </b></i></summary>
+  <summary>🚀 <b><i>Basic Games </b></i></summary>
   <ul>
 <!--     <li> <a href = "https://github.com/darsigangothri06/python/blob/main/Strings.ipynb">Strings</a> </li> -->
   </ul>
