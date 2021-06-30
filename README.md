@@ -16,9 +16,12 @@
 <!-- --- -->
 
 <details>
-  <summary>🚀 <b><i>Basic Games </b></i></summary>
-  <ul>
-<!--     <li> <a href = "https://github.com/darsigangothri06/python/blob/main/Strings.ipynb">Strings</a> </li> -->
-  </ul>
+  <summary> 🚀 <b><i>Basic Games </b></i></summary>
+<!--All you need is a blank line-->
+  
+* [google](https://github.com/darsigangothri06/python/blob/main/Functions.ipynb)
+* okk
+</details>
+ 
   
 </details>
