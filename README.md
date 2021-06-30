@@ -13,15 +13,4 @@
 * [Tuples](https://github.com/darsigangothri06/python/blob/main/Tuples.ipynb)
 * [Sets](https://github.com/darsigangothri06/python/blob/main/Sets.ipynb)
 * [Built-in Functions](https://github.com/darsigangothri06/python/blob/main/Built-in%20Functions.ipynb)
-<!-- --- -->
-
-<details>
-  <summary> 🚀 <b><i>Basic Games </b></i></summary>
-<!--All you need is a blank line-->
-  
-* [google](https://github.com/darsigangothri06/python/blob/main/Functions.ipynb)
-* okk
-</details>
- 
-  
-</details>
+---
