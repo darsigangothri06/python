@@ -12,7 +12,7 @@
 * [Dictionaries](https://github.com/darsigangothri06/python/blob/main/Dictionaries.ipynb)
 * [Tuples](https://github.com/darsigangothri06/python/blob/main/Tuples.ipynb)
 * [Built-in Functions](https://github.com/darsigangothri06/python/blob/main/Built-in%20Functions.ipynb)
----
+<!-- --- -->
 
 <details>
   <summary>🚀 <b><i>Basic Games : </b></i></summary>
