@@ -15,3 +15,9 @@
 * [Functions](https://github.com/darsigangothri06/python/blob/main/Functions.ipynb)
 * [Built-in Functions](https://github.com/darsigangothri06/python/blob/main/Built-in%20Functions.ipynb)
 ---
+## *Other Programs*
+<details>
+  <summary>Sample Game</summary>
+  
+  *  This [program](https://github.com/darsigangothri06/python/blob/main/game.py) was built using functions which has two inner games.
+</details>
