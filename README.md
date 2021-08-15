@@ -1,5 +1,5 @@
 # 📂 _Python Programming_
-💻 Environment : **[Jupyter Notebbook](https://jupyter.org/)** <br>
+💻 Environment : **[Jupyter Notebook](https://jupyter.org/)** <br>
 ### 🚀 _Contents :_ 
 * [Variables, expressions and statements](https://github.com/darsigangothri06/python/blob/main/Variables%2C%20expressions%20and%20statements.ipynb "Basics")
 * [Conditional Execution](https://github.com/darsigangothri06/python/blob/main/Conditional%20Execution.ipynb "Operators, Conditional statements")
