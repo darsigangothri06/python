@@ -12,5 +12,5 @@
 * [Sets](https://github.com/darsigangothri06/python/blob/main/Sets.ipynb)
 * [Functions](https://github.com/darsigangothri06/python/blob/main/Functions.ipynb)
 * [Built-in Functions](https://github.com/darsigangothri06/python/blob/main/Built-in%20Functions.ipynb)
-* [Itertools Module](https://github.com/darsigangothri06/python/blob/main/Itertools.html)
+* [Itertools Module](https://github.com/darsigangothri06/python/blob/main/Itertools.ipynb)
 ---
