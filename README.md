@@ -7,6 +7,7 @@
 * [Iteration](https://github.com/darsigangothri06/python/blob/main/Iteration.ipynb "While loop, for loop")
 * [Strings](https://github.com/darsigangothri06/python/blob/main/Strings.ipynb "String Slicing, Built-in functions, String methods")
 * [Lists](https://github.com/darsigangothri06/python/blob/main/Lists.ipynb)
+    * [Deep Copy and Shallow Copy](https://github.com/darsigangothri06/python/blob/main/Deep%20Copy%20and%20Shallow%20Copy.ipynb)
 * [Dictionaries](https://github.com/darsigangothri06/python/blob/main/Dictionaries.ipynb)
 * [Tuples](https://github.com/darsigangothri06/python/blob/main/Tuples.ipynb)
 * [Sets](https://github.com/darsigangothri06/python/blob/main/Sets.ipynb)
